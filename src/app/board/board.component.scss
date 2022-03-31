@@ -4,7 +4,22 @@ main {
     grid-gap: 0px;
 }
 
+#player { 
+    position:relative;
+    left:160px;
+
+}
+
+.newGame { 
+    position: relative;
+    left:200px;
+    margin-bottom: 20px;
+}
+
 app-square { 
     border: 1px grey solid;
     height: 200px;
 }
+
+
+
