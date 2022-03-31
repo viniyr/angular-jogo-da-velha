@@ -1,0 +1,21 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnType": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "editor.rulers": [
+        80,
+        120,
+        160
+    ],
+"editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+},
+    "typescript.suggestionActions.enabled": true,
+    "typescript.format.enable": true,
+    "javascript.suggestionActions.enabled": false
+}
